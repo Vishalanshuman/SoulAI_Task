@@ -1,9 +1,9 @@
-<h4>Assumptions:<h4/>
+<h3>Assumptions:<h3/>
 The text extracted from the PDF is clean and sufficient for classification.
 The categories for classification are fixed (e.g., warranty, transactions, troubleshooting).
 A machine learning model (e.g., Naive Bayes) or a rule-based approach can be used for classification.
 The training dataset consists of labeled text data belonging to the given categories.
-Solution:
+<h3>Solution:<h3/>
 Step-by-Step Approach:
 Text Extraction:
 
