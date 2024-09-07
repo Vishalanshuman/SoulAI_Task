@@ -5,7 +5,7 @@ A machine learning model (e.g., Naive Bayes) or a rule-based approach can be use
 The training dataset consists of labeled text data belonging to the given categories.
 <h3>Solution:<h3/>
 Step-by-Step Approach:
-Text Extraction:
+##Text Extraction:
 
 Extract text from PDF documents using a library like PyPDF2.
 Text Preprocessing:
